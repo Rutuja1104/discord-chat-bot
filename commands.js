@@ -11,7 +11,7 @@ const commands = [
     // },
   ];
   const rest = new REST({ version: '10' }).setToken(
-    ''
+    'ADD YOUR DISCRD TOKEN'
 );
 (async()=>{
     try {
